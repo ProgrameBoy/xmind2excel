@@ -1,6 +1,5 @@
-const ip = "http://172.21.29.7:7001"
-// const ip = "http://testvm:7001"
+const port = "http://172.21.29.7:7001"
 const ports = {
-    submitxmindport:ip+"/submitxmind"
+    submitxmindport:port+"/submitxmind"
 }
 export default ports;
